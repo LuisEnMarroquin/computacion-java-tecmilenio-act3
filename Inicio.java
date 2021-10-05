@@ -11,7 +11,7 @@ public class Inicio {
 
       String userInput; // User input variable
 
-      System.out.println("\nMenu principal (elija una opción)");
+      System.out.println("\nMenú principal (elija una opción)");
       System.out.println("- 0. Salir de la aplicación");
       System.out.println("- 1. Shuffle (mezclar cartas)");
       System.out.println("- 2. Head (quitar primer carta)");
